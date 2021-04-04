@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "They See Me Rollin' They Hatin'",
+      "age": 50
+    },
+    {
+      "id": 2,
+      "name": "Rick Roll"
+    },
+    {
+      "id": 3,
+      "name": "Ima Bad Guy"
+    },
+    {
+      "id": 4,
+      "name": "Bad Guy"
+    }
+  ]
+}
